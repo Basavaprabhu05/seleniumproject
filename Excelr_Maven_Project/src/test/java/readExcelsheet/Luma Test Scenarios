@@ -1,0 +1,103 @@
+Selenium Project Test Scenarios:
+1:
+•	Open Chrome Browser
+•	Enter Url https://magento.softwaretestingboard.com/
+•	Click on search bar
+•	Search for  T-shirts for men click on search.
+2:
+•	Open Browser and Enter Url
+•	Click on create new account.
+•	Enter all the fields and click on create new account button.
+3:
+•	Open Browser and Enter Url
+•	Click on Sign in and Sign to your account.
+4:
+•	Open Browser and Enter Url
+•	Sign to your account 
+•	Scroll down
+•	Add any one item to wishlist
+5:
+•	Open Browser and Enter Url
+•	Sign to your account
+•	 add any item to wishlist and then click add all to cart
+•	Capture error message(if any)
+•	Quit from the browser
+6:
+•	Using this url https://magento.softwaretestingboard.com/men/bottoms-men/pants-men.html
+•	Click on any product
+•	Select size ,colour 
+•	and add item to cart
+7:
+•	Open Browser and Enter Url
+•	Using action method mouse hover on Men,Women and sale links
+8:
+•	Open Browser and Enter Url
+•	Click on shop new yoga button
+•	And click on sort by dropdown and select Price by using selection method
+9:
+•	Open Browser and Enter Url
+•	Click on search and enter gear then clear the text 
+•	Again enter men pants and click search
+10:
+•	Open Browser and Enter Url
+•	Scroll down n click on 20% off link
+•	Select a product and select the size,colour and change the quantity of the product and add to cart
+•	Close the webpage
+11:
+•	Open Browser and Enter Url
+•	Scroll down add messenger bag to cart
+•	Go to cart and and delete the item from cart
+•	Using alert handling select Ok option 
+12:
+•	Open Browser and Enter Url
+•	Mouse hower on gears link
+•	Click on watches and by navigation commands navigate back to home page .
+13:
+•	Open Browser and Enter Url
+•	Sign to your account using Test Ng(Test, Before test and after test)data provider method.
+14:
+•	Open Browser and Enter Url
+•	 take a screenshot of the home page displayed.
+15:
+•	Open Browser and Enter Url
+•	Click on sign in
+•	Click on forgot password ,enter email n capture the message.
+16:
+•	Open Browser and Enter Url
+•	One with cucumber frame work for sign in page
+17:
+•	List the number of  links in homepage
+•	With name of those links. 
+18:
+•	Open Browser and Enter Url
+•	Go to any product and rate the product
+19:
+•	Open Browser and Enter Url
+•	Sign in to the account using data driven method passing the inputs from excel sheet(cucumber frame work)
+20:
+•	Open Browser and Enter Url
+•	Without sign in just go to any product clicking on sale
+•	Add a product to comparision list click on add to compare.
+•	Capture the success message displayed.
+21:
+•	Open Browser and Enter Url
+•	Add any item to cart by selecting size,color and quantity.
+•	Click add to cart and proceed to checkout.
+22:
+•	Open Browser and Enter Url
+•	Sign in to account and go to cart and click on view and edit cart.
+•	Click on check out with multiple address.
+•	Go to shipping information and change address
+•	Change city , state and click on save address.
+23:
+•	Open Browser and Enter Url
+•	Go to Whats new link.
+•	Click on reviews and check for customer reviews.
+24:
+•	Open Browser and Enter Url
+•	Select any product and click on add to cart without selecting size and colour.
+•	Capture the error/warning message.
+25:
+•	Open Browser and Enter Url
+•	Using TestNg priority setting method .
+•	Signin to your account and add a item to wishlist.
